@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santa</h1>
-<h3 align="center">A civil engineerer and a passionate frontend and python developer</h3>
+<h3 align="center">A civil engineerer and a passionate fullstack developer</h3>
 
 - 🔭 I’m currently working on [Santa-Studio](https://thesantinator.github.io/santa-studio/)
 
